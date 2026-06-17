@@ -1,0 +1,1 @@
+const hamburger=document.querySelector('.hamb');const menu=document.querySelector('.menu');if(hamburger){hamburger.addEventListener('click',()=>menu.classList.toggle('show'))}document.querySelectorAll('.accordion button').forEach(btn=>{btn.addEventListener('click',()=>{btn.nextElementSibling.classList.toggle('open')})});
