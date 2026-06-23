@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 89,
+      "description": "Comfortable wireless headphones with clear audio quality.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23dbeafe'/%3E%3Ccircle cx='155' cy='130' r='50' fill='%232563eb'/%3E%3Ccircle cx='245' cy='130' r='50' fill='%232563eb'/%3E%3Cpath d='M155 90 Q200 35 245 90' fill='none' stroke='%231e3a8a' stroke-width='18'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%231e3a8a' font-family='Arial'%3EHeadphones%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 120,
+      "description": "Smart watch with fitness tracking and notifications.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23dcfce7'/%3E%3Crect x='165' y='55' width='70' height='150' rx='18' fill='%23166534'/%3E%3Crect x='178' y='82' width='44' height='72' rx='10' fill='%2386efac'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%23166534' font-family='Arial'%3ESmart Watch%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "price": 45,
+      "description": "High precision mouse for gaming and productivity.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23fee2e2'/%3E%3Cellipse cx='200' cy='128' rx='64' ry='88' fill='%23dc2626'/%3E%3Cline x1='200' y1='55' x2='200' y2='120' stroke='%23fee2e2' stroke-width='8'/%3E%3Ccircle cx='200' cy='95' r='10' fill='%23fee2e2'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%23991b1b' font-family='Arial'%3EGaming Mouse%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "price": 75,
+      "description": "RGB mechanical keyboard with fast response keys.",
+      "status": "unavailable",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23fef3c7'/%3E%3Crect x='75' y='85' width='250' height='90' rx='16' fill='%23d97706'/%3E%3Cg fill='%23fde68a'%3E%3Crect x='95' y='105' width='28' height='18' rx='4'/%3E%3Crect x='132' y='105' width='28' height='18' rx='4'/%3E%3Crect x='169' y='105' width='28' height='18' rx='4'/%3E%3Crect x='206' y='105' width='28' height='18' rx='4'/%3E%3Crect x='243' y='105' width='28' height='18' rx='4'/%3E%3Crect x='95' y='135' width='176' height='18' rx='4'/%3E%3C/g%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%2392400e' font-family='Arial'%3EKeyboard%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub",
+      "price": 35,
+      "description": "Multi-port USB-C hub for laptops and tablets.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23e0e7ff'/%3E%3Crect x='125' y='90' width='150' height='80' rx='14' fill='%234f46e5'/%3E%3Ccircle cx='155' cy='130' r='10' fill='%23c7d2fe'/%3E%3Crect x='180' y='120' width='55' height='20' rx='5' fill='%23c7d2fe'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%23312e81' font-family='Arial'%3EUSB-C Hub%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 6,
+      "name": "4K Monitor",
+      "price": 310,
+      "description": "Ultra HD monitor for design, gaming, and office work.",
+      "status": "unavailable",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23f3e8ff'/%3E%3Crect x='85' y='55' width='230' height='135' rx='12' fill='%237e22ce'/%3E%3Crect x='110' y='80' width='180' height='82' rx='8' fill='%23e9d5ff'/%3E%3Crect x='185' y='190' width='30' height='20' fill='%237e22ce'/%3E%3Crect x='155' y='210' width='90' height='12' rx='6' fill='%237e22ce'/%3E%3Ctext x='200' y='245' text-anchor='middle' font-size='20' fill='%235812c2' font-family='Arial'%3E4K Monitor%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 7,
+      "name": "Portable Speaker",
+      "price": 55,
+      "description": "Compact speaker with loud bass and long battery life.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23ccfbf1'/%3E%3Crect x='130' y='75' width='140' height='110' rx='25' fill='%230f766e'/%3E%3Ccircle cx='175' cy='130' r='28' fill='%2399f6e4'/%3E%3Ccircle cx='225' cy='130' r='28' fill='%2399f6e4'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%23115e59' font-family='Arial'%3ESpeaker%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "id": 8,
+      "name": "Laptop Stand",
+      "price": 28,
+      "description": "Adjustable stand that improves posture and cooling.",
+      "status": "available",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='260'%3E%3Crect width='400' height='260' fill='%23f1f5f9'/%3E%3Cpath d='M120 170 L280 170 L245 90 L155 90 Z' fill='%23475569'/%3E%3Cpath d='M150 185 L250 185' stroke='%230f172a' stroke-width='14' stroke-linecap='round'/%3E%3Ctext x='200' y='225' text-anchor='middle' font-size='22' fill='%230f172a' font-family='Arial'%3ELaptop Stand%3C/text%3E%3C/svg%3E"
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "Mohammed Tamous", "email": "mohammed@example.com", "role": "Admin" },
+    { "id": 2, "name": "Ahmed Nasser", "email": "ahmed@example.com", "role": "User" },
+    { "id": 3, "name": "Sara Ali", "email": "sara@example.com", "role": "User" },
+    { "id": 4, "name": "Lina Hassan", "email": "lina@example.com", "role": "Admin" },
+    { "id": 5, "name": "Omar Saleh", "email": "omar@example.com", "role": "User" }
+  ],
+  "orders": [
+    { "id": 1, "customer": "Ahmed Nasser", "total": 220, "status": "Completed", "date": "2026-01-12" },
+    { "id": 2, "customer": "Sara Ali", "total": 89, "status": "Pending", "date": "2026-02-18" },
+    { "id": 3, "customer": "Lina Hassan", "total": 310, "status": "Completed", "date": "2026-03-06" },
+    { "id": 4, "customer": "Omar Saleh", "total": 55, "status": "Cancelled", "date": "2026-04-24" },
+    { "id": 5, "customer": "Mohammed Tamous", "total": 175, "status": "Completed", "date": "2026-05-11" },
+    { "id": 6, "customer": "Sara Ali", "total": 45, "status": "Pending", "date": "2026-06-08" },
+    { "id": 7, "customer": "Ahmed Nasser", "total": 120, "status": "Completed", "date": "2026-06-19" }
+  ]
+}
